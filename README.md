@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markbeeumii&label=Profile%20views&color=0e75b6&style=flat" alt="markbeeumii" /> </p>
 
 - ⚡ Fun fact **I'm funny and loyal**
-<video width="320" height="240" align="right" controls>
-  <source src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-working-on-pc-3917154-3262957.mp4?h=700" type="video/mp4">
-</video>
+<video loading="lazy" align="right" muted="muted" src="https://cdnl.iconscout.com/lottie/premium/thumb/programmer-working-on-pc-3917154-3262957.mp4" type="video/mp4" autoplay="autoplay" loop="loop"></video>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/phuoy makara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phuoy makara" height="30" width="40" /></a>
