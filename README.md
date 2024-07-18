@@ -7,7 +7,7 @@
 <img src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1024x576.jpg" jsaction="VQAsE" width="400" class="r48jcc pT0Scc iPVvYb" alt="GitHub" align="right" jsname="kn3ccd">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/phuoy makara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phuoy makara" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/phuoy-makara-b93969238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phuoy makara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,8 +16,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://camo.githubusercontent.com/9b70b0b41a9f9889252d91486cbac20204cb782727fa432be6b932aad2c2e98f/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64726f7379367132792f696d6167652f75706c6f61642f76313638373736373339362f6d656e752d736f757263652f4142415f6962316a6e6a2e6a7067"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ABA: 004 771 973" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=markbeeumii&show_icons=true&locale=en&layout=compact" alt="markbeeumii" style="margin-top:10px;" /></p>
+<h3>ABA</h3>
+<strong>004 771 973</strong>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markbeeumii&show_icons=true&locale=en" alt="markbeeumii" style="margin-top:10px;" /></p>
+#<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=markbeeumii&show_icons=true&locale=en&layout=compact" alt="markbeeumii" style="margin-top:10px;" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markbeeumii&" alt="markbeeumii" /></p>
+#<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markbeeumii&show_icons=true&locale=en" alt="markbeeumii" style="margin-top:10px;" /></p>
+
+#<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markbeeumii&" alt="markbeeumii" /></p>
