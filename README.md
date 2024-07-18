@@ -17,4 +17,4 @@
 <h3>ABA</h3>
 <strong>004 771 973</strong>
 
-<img src="https://res.cloudinary.com/drosy6q2y/image/upload/v1687767396/menu-source/ABA_ib1jnj.jpg" width="260" height="280" /> 
+<img src="https://res.cloudinary.com/drosy6q2y/image/upload/v1687767396/menu-source/ABA_ib1jnj.jpg" width="240" height="320" /> 
