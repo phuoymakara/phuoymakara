@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Makara Phuoy</h1>
 <h3 align="center">A passionate web developer from Cambodia</h3>
-<--!
-<p align="left"> <img src="" alt="markbeeumii" /> </p>
--->
+
 - ⚡ Fun fact **I'm funny and loyal**
 <img src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1024x576.jpg" jsaction="VQAsE" width="400" class="r48jcc pT0Scc iPVvYb" alt="GitHub" align="right" jsname="kn3ccd">
 <h3 align="left">Connect with me:</h3>
@@ -18,10 +16,4 @@
 
 <h3>ABA</h3>
 <strong>004 771 973</strong>
-<--!
-#<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=markbeeumii&show_icons=true&locale=en&layout=compact" alt="markbeeumii" style="margin-top:10px;" /></p>
 
-#<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markbeeumii&show_icons=true&locale=en" alt="markbeeumii" style="margin-top:10px;" /></p>
-
-#<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markbeeumii&" alt="markbeeumii" /></p>
--->
