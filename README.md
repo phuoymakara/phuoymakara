@@ -7,7 +7,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/phuoy-makara-b93969238" target="blank"><img align="center" src="https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=2147483647&v=beta&t=HMVBiFMV-HgYXlCGY6Xk6_d_atqf3B8NDd1lVbfCRlE" alt="phuoy makara" height="40" width="40" /></a>
 </p>
-
+<div align="left">
+<a href="https://phuoymakara.vercel.app/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3037/3037366.png" alt="phuoy makara" height="40" width="40" /></a>
+</div>
 
 ## Tech Stack
 
